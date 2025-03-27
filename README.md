@@ -1,15 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morten Barthel
 ======================================================================================================================================
 
-Just a human being
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/DerIch69420/count.svg" />
+</p>
+
 ------------------
-
-Blah blah blah, somewhen I am going to put something useful in here
-
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at [netroMorten@web.de](mailto:netroMorten@web.de)
-* 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on small projects in C or Rust
+```lua
+local aboutMe = {
+  name = "Morten Barthel",  -- 🌍
+  country = "Germany",      -- 🇩🇪
+  email = "netroMorten@web.de",  -- ✉️
+  learning = "Rust",       -- 🧠
+  collaboration = "C or Rust projects" -- 🤝
+}
+```
 
 <a href="https://www.github.com/DerIch69420" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DerIch69420?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,6 +36,8 @@ src="https://img.shields.io/github/followers/DerIch69420?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
+
 <a href="http://www.github.com/DerIch69420"><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DerIch69420's GitHub stats" /></a>
 
 <a href="https://github.com/DerIch69420" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerIch69420&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
