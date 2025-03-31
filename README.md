@@ -12,7 +12,7 @@ local aboutMe = {
 }
 ```
 
-<a href="http://www.github.com/DerIch69420"><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DerIch69420's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ### My Skills
 
