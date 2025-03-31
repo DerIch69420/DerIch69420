@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 local aboutMe = {
   name = "Morten Barthel",  -- 🌍
   country = "Germany",      -- 🇩🇪
+  language = {"German", "English", "French"}
   email = "netroMorten@web.de",  -- ✉️
-  learning = "Rust",       -- 🧠
-  collaboration = "C or Rust projects" -- 🤝
+  collaboration = "Rust projects" -- 🤝
 }
 ```
 
