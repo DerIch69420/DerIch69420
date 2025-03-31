@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 local aboutMe = {
   name = "Morten Barthel",  -- 🌍
   country = "Germany",      -- 🇩🇪
-  language = {"German", "English", "French"}
+  language = {"German", "English", "French"},
   email = "netroMorten@web.de",  -- ✉️
   collaboration = "Rust projects" -- 🤝
 }
