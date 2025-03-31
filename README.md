@@ -16,15 +16,23 @@ local aboutMe = {
 }
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<table>
+  <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></td>
+
+  </tr>
+</table>
+
+<div align="center">
 
 ### My Skills
 
-<p align="left">
+<p>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 <div align="center">
 
