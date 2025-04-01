@@ -6,13 +6,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ------------------
-```lua
-local aboutMe = {
-  name = "Morten Barthel",  -- 🌍
-  country = "Germany",      -- 🇩🇪
-  language = {"German", "English", "French"},
-  email = "netroMorten@web.de",  -- ✉️
-  collaboration = "Rust projects" -- 🤝
+```assembly
+section .data
+    name db "Morten Barthel", 0
+    country db "Germany", 0
+    language db "German, English, French", 0
+    email db "netroMorten@web.de", 0
+    collaboration db "Rust projects", 0
+```
+
+
+This defines your details as null-terminated strings in the .data section, ready for use in an x86 assembly program. Let me know if you need further modifications!
+
+
 }
 ```
 
