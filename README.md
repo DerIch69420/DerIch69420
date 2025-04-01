@@ -16,12 +16,6 @@ section .data
 ```
 
 
-This defines your details as null-terminated strings in the .data section, ready for use in an x86 assembly program. Let me know if you need further modifications!
-
-
-}
-```
-
 <table>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></td>
