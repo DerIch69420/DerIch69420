@@ -6,15 +6,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ------------------
+
 ```assembly
 section .data
     name db "Morten Barthel", 0
+    age db "14", 0
     country db "Germany", 0
     language db "German, English, French", 0
     email db "netroMorten@web.de", 0
     collaboration db "Rust projects", 0
+    hobbies db "Programming, Math, Dancing", 0
+    editor db "Neovim", 0
+    os db "Arch Linux", 0
 ```
-
 
 <table>
   <tr>
@@ -35,10 +39,6 @@ section .data
 </div>
 
 <div align="center">
-
-### My Socials
-
-<p>  <a href="https://www.github.com/DerIch69420" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/_derich__03720" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a><a href="https://www.youtube.com/@-MasterofChaos-" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerIch69420&theme=tokyonight&border_radius=100&date_format=j%20M%5B%20Y%5D&card_width=750&card_height=200&border=172AB0&ring=2FFEFF&fire=9A139D&dates=034DFF&sideNums=B10BEB)](https://git.io/streak-stats)
