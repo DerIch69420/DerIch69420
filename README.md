@@ -22,8 +22,8 @@ section .data
 
 <table>
   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerIch69420&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
