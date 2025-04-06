@@ -6,11 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ------------------
-
+<!--Colored Waving Animation-->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&" alt="Have a nice day" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&" alt="Welcome to my Profile" />
 </div>
 
+<!--Some Information about Me-->
 ```assembly
 section .data
     name db "Morten Barthel", 0
@@ -24,6 +25,7 @@ section .data
     os db "Arch Linux", 0
 ```
 
+<!--My GitHub Stats and most used Languages-->
 <div align="center">
 
 <table>
@@ -33,6 +35,7 @@ section .data
   </tr>
 </table>
 
+<!--My Skills and Count of Visits-->
 <table>
   <tr>
     <td align="center">
@@ -60,6 +63,7 @@ section .data
 
 </div>
 
+<!--My GitHub Trophies-->
 <div align="center">
     
 ### My GitHub Trohies
@@ -68,6 +72,7 @@ section .data
 
 </div>
 
+<!--My Contributing Graph-->
 <div align="center">
     
 ### My Contribution Graph
@@ -76,6 +81,7 @@ section .data
 
 </div>
 
+<!--My GitHub Streak-->
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerIch69420&theme=tokyonight&border_radius=100&date_format=j%20M%5B%20Y%5D&card_width=750&card_height=200&border=172AB0&ring=2FFEFF&fire=9A139D&dates=034DFF&sideNums=B10BEB)](https://git.io/streak-stats)
 -->
