@@ -7,6 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------------
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&" alt="Have a nice day" />
+</div>
+
 ```assembly
 section .data
     name db "Morten Barthel", 0
