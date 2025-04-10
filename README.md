@@ -53,7 +53,7 @@ section .data
 </td>
 <td align="center">
 
-### Visit Count
+### Profile Views
 
 <img src="https://profile-counter.glitch.me/DerIch69420/count.svg" />
 
