@@ -1,23 +1,9 @@
-name: GitHub Achievements Metrics
-
-on:
-  workflow_dispatch:  # Only runs when you manually trigger it from the GitHub UI
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    timeout-minutes: 60  # Increase timeout to handle long-running actions
-    steps:
-      - name: Create assets directory
-        run: mkdir -p assets  # Ensure the assets directory exists
-      
-      - name: Generate Achievements Metrics
-        uses: lowlighter/metrics@v1.1.0  # Specify a stable version of the action
-        with:
-          filename: assets/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: 10  # Set a valid threshold (adjust as needed)
+name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.achievements.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_threshold: X
 
