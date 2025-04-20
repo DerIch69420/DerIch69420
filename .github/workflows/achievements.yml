@@ -12,7 +12,7 @@ jobs:
         run: mkdir -p assets  # Ensure the assets directory exists
       
       - name: Generate Achievements Metrics
-        uses: lowlighter/metrics@v1.1.0  # Specify a stable version of the action
+        uses: lowlighter/metrics@latest  # Specify a stable version of the action
         with:
           filename: assets/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
