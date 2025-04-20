@@ -1,0 +1,19 @@
+name: GitHub Achievements Metrics
+
+on:
+  workflow_dispatch:  # Only runs when you manually trigger it from the GitHub UI
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Achievements Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: X
+
