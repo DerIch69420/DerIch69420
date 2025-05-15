@@ -1,8 +1,6 @@
+
 <div align="center">
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morten Barthel
-======================================================================================================================================
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=My+name+is+Morten;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 ------------------
