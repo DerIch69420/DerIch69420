@@ -22,7 +22,6 @@ section .data
     country db "Germany", 0
     language db "German, English, French", 0
     email db "netroMorten@web.de", 0
-    collaboration db "Rust projects", 0
     hobbies db "Programming, Math, Dancing", 0
     editor db "Neovim", 0
     os db "Arch Linux", 0
