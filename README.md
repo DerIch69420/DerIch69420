@@ -54,15 +54,6 @@ section .data
 
 </div>
 
-<!--My GitHub Trophies-->
-<div align="center">
-    
-### My GitHub Trohies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DerIch69420&theme=tokyonight)
-
-</div>
-
 <!--My Contributing Graph-->
 <div align="center">
     
