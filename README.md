@@ -81,6 +81,9 @@ section .data
 
 </div>
 
+<!-- Contribution Space Shooting -->
+![Contribution Space Shooting](assets/DerIch69420-space-shooter.gif)
+
 <!--My GitHub Streak-->
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerIch69420&theme=tokyonight&border_radius=100&date_format=j%20M%5B%20Y%5D&card_width=750&card_height=200&border=172AB0&ring=2FFEFF&fire=9A139D&dates=034DFF&sideNums=B10BEB)](https://git.io/streak-stats)
